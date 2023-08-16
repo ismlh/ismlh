@@ -2,7 +2,8 @@
 #### BackEnd developer(.net)
 ![BackEnd developer(.net)](https://cdn-images-1.medium.com/max/200/1*pVgiUNKfclvbTk6pTUszdA@2x.gif)
 
-I am an .Net developer, I Can implement web applications using technologies such as .NET Framework, C#, ASP.NET, MVC, Web API, ASP.NET Core,Sql,and EF Core
+I am an .Net developer, I Can implement web applications using technologies such as .NET Framework, C#, ASP.NET MVC Cpre,
+Web API Core,Sql,and EF Core
 
 Skills: 
 * C#
@@ -10,8 +11,9 @@ Skills:
 * SQL
 * Linq
 * EFCore
+* Dapper
 * .Net Framework
-* ASP.Net Core
+* ASP.Net MVC Core
 * ASP.Net Web API
 * Html
 * CSS
