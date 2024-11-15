@@ -18,7 +18,10 @@ Skills:
 * CSS
 * Bootstrap
 * Js
+* TS
 * Ajax
+* Jquery
+* Angular
 
 - 🌱 I’m currently learning Full Stack Development(.Net | Angular) 
 
