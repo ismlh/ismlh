@@ -1,19 +1,10 @@
 ### Hi there 👋, my name is Islam Mohammed
-#### BackEnd developer(.net)
-![BackEnd developer(.net)](https://cdn-images-1.medium.com/max/200/1*pVgiUNKfclvbTk6pTUszdA@2x.gif)
+#### FrontEnd developer(Angular)
 
-I am an .Net developer, I Can implement web applications using technologies such as .NET Framework, C#, ASP.NET MVC Core,
-Web API Core,Sql,and EF Core
+ Dedicated Front End Developer proficient in (Angular) framework, with a foundation in C# technologies
+ (.Net). Solid foundation in SQL, with a keen focus on problem-solving and continuous skill enhancement.
 
 Skills: 
-* C#
-* OOP
-* SQL
-* Linq
-* EFCore
-* .Net Framework
-* ASP.Net MVC Core
-* ASP.Net Web API
 * Html
 * CSS
 * Bootstrap
@@ -22,6 +13,12 @@ Skills:
 * Ajax
 * Jquery
 * Angular
+* Solid Principles
+* * C#
+* OOP
+* SQL
+* Linq
+* EFCore
 
 - 🌱 I’m currently learning Full Stack Development(.Net | Angular) 
 
