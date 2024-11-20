@@ -14,7 +14,7 @@ Skills:
 * Jquery
 * Angular
 * Solid Principles
-* * C#
+* C#
 * OOP
 * SQL
 * Linq
