@@ -8,6 +8,7 @@ Skills:
 * Html
 * CSS
 * Bootstrap
+* Tailwind Css
 * Js
 * TS
 * Ajax
