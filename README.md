@@ -20,6 +20,8 @@ Skills:
 * SQL
 * Linq
 * EFCore
+* ASP.NET CORE(MVC)
+  
 
 - 🌱 I’m currently learning Full Stack Development(.Net | Angular) 
 
