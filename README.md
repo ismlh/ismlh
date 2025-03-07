@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Islam Mohammed
-#### FrontEnd developer(Angular)
+#### Full Stack developer(.Net | Angular)
 
 Dedicated Full Stack Developer with proficiency in Angular and .NET (C#) technologies. Strong foundation in SQL, with a passion for problem-solving and a commitment to continuous learning and skill enhancement. Proven ability to develop scalable, efficient, and user-centric applications.
 
