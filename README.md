@@ -20,6 +20,8 @@ Skills:
 * EFCore
 * ASP.NET CORE(MVC)
 * Web API Core(Restfull)
+* API With Jwt
+* Repository Pattern With Unit Of Work
 * AutoMapper
   
 
