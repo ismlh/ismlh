@@ -23,6 +23,8 @@ Skills:
 * API With Jwt
 * Repository Pattern With Unit Of Work
 * AutoMapper
+* 3-Tier Architecture
+* Onion Architecture
   
 
 
